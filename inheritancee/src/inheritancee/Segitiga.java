@@ -1,7 +1,7 @@
 package Inheritancee;
 /**
  *
- * @author Farrel
+ * @author Irfan Habibi
  */
 public class Segitiga extends ObjekGeometri {
     private double side1 = 1.0;

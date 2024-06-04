@@ -3,7 +3,7 @@ package Inheritancee;
 import java.util.Scanner;
 /**
  *
- * @author Farrel
+ * @author Irfan Habibi
  */
 public class inheritancee {
     public static void main(String[] args) {

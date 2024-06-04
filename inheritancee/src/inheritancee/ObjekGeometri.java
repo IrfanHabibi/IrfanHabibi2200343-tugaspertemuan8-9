@@ -1,7 +1,7 @@
 package Inheritancee;
 /**
  *
- * @author Farrel
+ * @author Irfan Habibi
  */
 public class ObjekGeometri {
     private String warna = "putih";
